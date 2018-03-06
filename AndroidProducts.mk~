@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/ht17_pro.mk \
+    $(LOCAL_DIR)/omni_ht17_pro.mk
