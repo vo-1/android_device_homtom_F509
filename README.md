@@ -1,5 +1,4 @@
-Tele2 Maxi LTE Device Tree for TWRP
+Homtom HT17Pro twrp device tree 64bit
 -----------------------------------
 
-Дерево для компиляции TWRP 3.0.2-0 на базе исходников OmniROM для Tele2 Maxi LTE.
-
+Дерево для компиляции TWRP 3.x на базе исходников OmniROM для Homtom HT17Pro
